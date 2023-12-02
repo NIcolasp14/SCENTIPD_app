@@ -3,7 +3,7 @@ The app I built for my team iGem Athens 2023 for the iGem competition. I was per
 
 <img 
      align="center" 
-     src="https://github.com/NIcolasp14/SCENTIPD_app/blob/main/spdApp.gif)https://github.com/NIcolasp14/SCENTIPD_app/blob/main/spdApp.gif" 
+     src="[https://github.com/NIcolasp14/SCENTIPD_app/blob/main/spdApp.gif)https://github.com/NIcolasp14/SCENTIPD_app/blob/main/spdApp.gif](https://github.com/NIcolasp14/SCENTIPD_app/blob/main/spdApp.gif)https://github.com/NIcolasp14/SCENTIPD_app/blob/main/spdApp.gif" 
      width="400px" 
      alt="animated"
 />
